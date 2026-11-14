@@ -9,7 +9,7 @@
    "ogrenciBirimList": [
       {
          "tkimbrmId": {
-            "value": "9448b467d63fd25b37b947f6d35b7fe578a8ede2312ef1c3f809af1b195e22c7aa9e9271415e01d77bd0afcdaab46ab4",
+            "value": "c72c7fa7b9385761d0dfe43fe772135e8127860c8fb5d1ff2ab56027c4fd4ce33a729dab37083188305c13375546ed1d",
             "type": "s"
          },
          "ogrNo": "39691581888",
@@ -22,246 +22,16 @@
          "tnotlarNotes": [
             {
                "idValue": {
-                  "value": "ff1bad2a437cd470b9725e034961135566b98ddb6e053e5762aa9bd36da1284423e6f281e3e776a727856aedc8555ca0db7c5913fb96f36809e2a9c4524c835459a691befb65deff61b01202bc9a1481",
+                  "value": "2085f24d6f0a03aa65096d6eb9309bef341af40aa0d6d27c2699856affae4c0f4241df2236a8398d99dd3ec47381199f04cb7b712065297ba030c8a47568cc3c3785e795f65fc3bb8b20c2771643f862",
                   "type": "s"
                },
                "labelViewModel": {
                   "languageMap": {
-                     "EN": "Atatürk's Principles and History of Turkish Revolution I",
-                     "TR": "Atatürk İlkeleri ve İnkılap Tarihi I"
+                     "EN": "Random Signals",
+                     "TR": "Random Signals (Rassal Sinyaller)"
                   }
                },
-               "derskod": "TAR165",
-               "dersgrup": "",
-               "notTreeSet": {
-                  "items": [
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     }
-                  ],
-                  "width": 16.66666667
-               },
-               "yoklamaDevamDurumu": "--",
-               "dersBilgi": {
-                  "idValue": null,
-                  "labelViewModel": null,
-                  "kodu": null,
-                  "grubu": null,
-                  "dersLisani": {
-                     "languageMap": {
-                        "EN": "Tur",
-                        "TR": "Tür"
-                     }
-                  },
-                  "birim": {
-                     "languageMap": {
-                        "EN": "Department of Environmental Engineering (30% English)",
-                        "TR": "Çevre Mühendisliği Bölümü (%30 İngilizce)"
-                     }
-                  },
-                  "yariyil": {
-                     "languageMap": {
-                        "EN": "IV.YY",
-                        "TR": "IV.YY"
-                     }
-                  },
-                  "aciklama": null,
-                  "birimkod": null,
-                  "derslisankod": null,
-                  "kredi": "2.0",
-                  "statu": {
-                     "languageMap": {
-                        "EN": "Required Courses",
-                        "TR": "Zorunlu Dersler"
-                     }
-                  },
-                  "kulturelEtkkinlikDersiMi": false
-               }
-            },
-            {
-               "idValue": {
-                  "value": "3e9323a6007d33c35565cff436c456d66f9a8cebe373139e70a9707cd22634d8e0477846513345a656b80eecf470974fe6bf133eb93faa9fc88c99092fd8a924cb40f7c05dee58a3c5b3dbb8445e04a1",
-                  "type": "s"
-               },
-               "labelViewModel": {
-                  "languageMap": {
-                     "EN": "Atatürk's Principles and History of Turkish Revolution II",
-                     "TR": "Atatürk İlkeleri ve İnkılap Tarihi II"
-                  }
-               },
-               "derskod": "TAR166",
-               "dersgrup": "",
-               "notTreeSet": {
-                  "items": [
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     }
-                  ],
-                  "width": 16.66666667
-               },
-               "yoklamaDevamDurumu": "--",
-               "dersBilgi": {
-                  "idValue": null,
-                  "labelViewModel": null,
-                  "kodu": null,
-                  "grubu": null,
-                  "dersLisani": {
-                     "languageMap": {
-                        "EN": "Tur",
-                        "TR": "Tür"
-                     }
-                  },
-                  "birim": {
-                     "languageMap": {
-                        "EN": "Department of Environmental Engineering (30% English)",
-                        "TR": "Çevre Mühendisliği Bölümü (%30 İngilizce)"
-                     }
-                  },
-                  "yariyil": {
-                     "languageMap": {
-                        "EN": "IV.YY",
-                        "TR": "IV.YY"
-                     }
-                  },
-                  "aciklama": null,
-                  "birimkod": null,
-                  "derslisankod": null,
-                  "kredi": "2.0",
-                  "statu": {
-                     "languageMap": {
-                        "EN": "Required Courses",
-                        "TR": "Zorunlu Dersler"
-                     }
-                  },
-                  "kulturelEtkkinlikDersiMi": false
-               }
-            },
-            {
-               "idValue": {
-                  "value": "2c91617971a8987f2185914f1a398ed6b77c4ecdd5f71299e37995c4ff333b5ccd982564484d731e5d5b294bb99e660499116b0700feced788cd097df44b355aebfaddf1893256193defaad870ef4961",
-                  "type": "s"
-               },
-               "labelViewModel": {
-                  "languageMap": {
-                     "EN": "Electromagnetic Fields and Waves",
-                     "TR": "Electromagnetic Fields and Waves( Elektrom.Al.ve Dalg.)"
-                  }
-               },
-               "derskod": "EEM208",
+               "derskod": "EEM409",
                "dersgrup": "",
                "notTreeSet": {
                   "items": [
@@ -279,11 +49,31 @@
                         "idValue": null,
                         "labelViewModel": {
                            "languageMap": {
+                              "EN": "--",
+                              "TR": "--"
+                           }
+                        },
+                        "sinavUygulanacak": false
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
                               "EN": "",
                               "TR": ""
                            }
                         },
                         "sinavUygulanacak": true
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "--",
+                              "TR": "--"
+                           }
+                        },
+                        "sinavUygulanacak": false
                      },
                      {
                         "idValue": null,
@@ -326,7 +116,7 @@
                         "sinavUygulanacak": true
                      }
                   ],
-                  "width": 16.66666667
+                  "width": 12.5
                },
                "yoklamaDevamDurumu": "--",
                "dersBilgi": {
@@ -348,123 +138,8 @@
                   },
                   "yariyil": {
                      "languageMap": {
-                        "EN": "IV.YY",
-                        "TR": "IV.YY"
-                     }
-                  },
-                  "aciklama": null,
-                  "birimkod": null,
-                  "derslisankod": null,
-                  "kredi": "6.0",
-                  "statu": {
-                     "languageMap": {
-                        "EN": "Required Courses",
-                        "TR": "Zorunlu Dersler"
-                     }
-                  },
-                  "kulturelEtkkinlikDersiMi": false
-               }
-            },
-            {
-               "idValue": {
-                  "value": "e9dd30ea390bd3216741c396e4509dc1ff6980ef95731a55ac3c2ebce7176116977efe33fff9dabfa57da53b7b3b39d35c68cde3e827443e6a8db47a8f3256afaec04478fb924943b5871a41bf7ac88f",
-                  "type": "s"
-               },
-               "labelViewModel": {
-                  "languageMap": {
-                     "EN": "Fundamentals of Semiconductor Device",
-                     "TR": "Fundamentals of Semiconductor Devices (Yarıilet. Ayg. Tem.)"
-                  }
-               },
-               "derskod": "EEM210",
-               "dersgrup": "",
-               "notTreeSet": {
-                  "items": [
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "100",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     }
-                  ],
-                  "width": 16.66666667
-               },
-               "yoklamaDevamDurumu": "--",
-               "dersBilgi": {
-                  "idValue": null,
-                  "labelViewModel": null,
-                  "kodu": null,
-                  "grubu": null,
-                  "dersLisani": {
-                     "languageMap": {
-                        "EN": "Eng",
-                        "TR": "İng"
-                     }
-                  },
-                  "birim": {
-                     "languageMap": {
-                        "EN": "Dept.of Electrical and Electronics Engineering(Eng",
-                        "TR": "Elektrik-Elektronik Mühendisliği Bölümü (İngilizce)"
-                     }
-                  },
-                  "yariyil": {
-                     "languageMap": {
-                        "EN": "IV.YY",
-                        "TR": "IV.YY"
+                        "EN": "VII.YY",
+                        "TR": "VII.YY"
                      }
                   },
                   "aciklama": null,
@@ -473,256 +148,29 @@
                   "kredi": "5.0",
                   "statu": {
                      "languageMap": {
-                        "EN": "Required Courses",
-                        "TR": "Zorunlu Dersler"
+                        "EN": "Area Elective Courses",
+                        "TR": "Mesleki Seçmeli Dersler"
                      }
                   },
                   "kulturelEtkkinlikDersiMi": false
-               }
+               },
+               "onayDurumu": null,
+               "aciklama": null,
+               "zorunluYuklenenDers": false
             },
             {
                "idValue": {
-                  "value": "668a093f5fcf5ba8e05fd58777a62241486fa98104a0cd648847f804c7ca597408d2e342b5c49c650aafb810128786f64abe4b9b9b206fa629b0ea4532d4aad257d9a89aeb8e863744c60ed4e62fcf76",
+                  "value": "7c7ac4c513ae438d2c9398954e751021c61dd1b2cdbeb42e58e0c97acc9b880747c9a18299e1b9f73ebccc8522be2a05a60ede729f5f193dcb47310a1ea1fd510a82ce18a5d14c9ab36dce926fe7e15c",
                   "type": "s"
                },
                "labelViewModel": {
                   "languageMap": {
-                     "EN": "Digital Systems I",
-                     "TR": "Digital Systems I (Sayısal Sistemler I)"
+                     "EN": "Electrical and Electronics Engineering Design Project I",
+                     "TR": "Electrical and Electronics Engineering Design Project I"
                   }
                },
-               "derskod": "EEM232",
-               "dersgrup": "",
-               "notTreeSet": {
-                  "items": [
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     }
-                  ],
-                  "width": 16.66666667
-               },
-               "yoklamaDevamDurumu": "--",
-               "dersBilgi": {
-                  "idValue": null,
-                  "labelViewModel": null,
-                  "kodu": null,
-                  "grubu": null,
-                  "dersLisani": {
-                     "languageMap": {
-                        "EN": "Eng",
-                        "TR": "İng"
-                     }
-                  },
-                  "birim": {
-                     "languageMap": {
-                        "EN": "Dept.of Electrical and Electronics Engineering(Eng",
-                        "TR": "Elektrik-Elektronik Mühendisliği Bölümü (İngilizce)"
-                     }
-                  },
-                  "yariyil": {
-                     "languageMap": {
-                        "EN": "IV.YY",
-                        "TR": "IV.YY"
-                     }
-                  },
-                  "aciklama": null,
-                  "birimkod": null,
-                  "derslisankod": null,
-                  "kredi": "6.0",
-                  "statu": {
-                     "languageMap": {
-                        "EN": "Required Courses",
-                        "TR": "Zorunlu Dersler"
-                     }
-                  },
-                  "kulturelEtkkinlikDersiMi": false
-               }
-            },
-            {
-               "idValue": {
-                  "value": "e8aa8f4b148f23b684820b37dc6a01b28bf33da9e4b462905cfa84678af4e66add1ba99670b80918487597bbf9a1b3c6601a7c41a03be2dcbd6d24ca724c9a0fa9eea56222c6daf978e1f4e6185677d8",
-                  "type": "s"
-               },
-               "labelViewModel": {
-                  "languageMap": {
-                     "EN": "Digital Systems Laboratory",
-                     "TR": "Digital Systems Laboratory (Sayısal Sistemler Laboratuvarı)"
-                  }
-               },
-               "derskod": "EEM238",
-               "dersgrup": "B",
-               "notTreeSet": {
-                  "items": [
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "",
-                              "TR": ""
-                           }
-                        },
-                        "sinavUygulanacak": true
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "",
-                              "TR": ""
-                           }
-                        },
-                        "sinavUygulanacak": true
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "",
-                              "TR": ""
-                           }
-                        },
-                        "sinavUygulanacak": true
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "0.0",
-                              "TR": "0.0"
-                           }
-                        },
-                        "sinavUygulanacak": true
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "",
-                              "TR": ""
-                           }
-                        },
-                        "sinavUygulanacak": true
-                     }
-                  ],
-                  "width": 16.66666667
-               },
-               "yoklamaDevamDurumu": "--",
-               "dersBilgi": {
-                  "idValue": null,
-                  "labelViewModel": null,
-                  "kodu": null,
-                  "grubu": null,
-                  "dersLisani": {
-                     "languageMap": {
-                        "EN": "Eng",
-                        "TR": "İng"
-                     }
-                  },
-                  "birim": {
-                     "languageMap": {
-                        "EN": "Dept.of Electrical and Electronics Engineering(Eng",
-                        "TR": "Elektrik-Elektronik Mühendisliği Bölümü (İngilizce)"
-                     }
-                  },
-                  "yariyil": {
-                     "languageMap": {
-                        "EN": "IV.YY",
-                        "TR": "IV.YY"
-                     }
-                  },
-                  "aciklama": null,
-                  "birimkod": null,
-                  "derslisankod": null,
-                  "kredi": "2.0",
-                  "statu": {
-                     "languageMap": {
-                        "EN": "Required Courses",
-                        "TR": "Zorunlu Dersler"
-                     }
-                  },
-                  "kulturelEtkkinlikDersiMi": false
-               }
-            },
-            {
-               "idValue": {
-                  "value": "ba3a53c3a01d8f9996217b0925db3b11323c293b664dd513a08d57536ae5cffad14a16a206aafbefde2b78a27c7335dee40472d562d17200392664274f4c639be95f94aa584a0ee5814225ed91dcd9b7",
-                  "type": "s"
-               },
-               "labelViewModel": {
-                  "languageMap": {
-                     "EN": "Engineering Probability",
-                     "TR": "Engineering Probability (Mühendislikte Olasılık)"
-                  }
-               },
-               "derskod": "İST244",
-               "dersgrup": "",
+               "derskod": "EEM413",
+               "dersgrup": "J",
                "notTreeSet": {
                   "items": [
                      {
@@ -744,6 +192,26 @@
                            }
                         },
                         "sinavUygulanacak": true
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "--",
+                              "TR": "--"
+                           }
+                        },
+                        "sinavUygulanacak": false
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "--",
+                              "TR": "--"
+                           }
+                        },
+                        "sinavUygulanacak": false
                      },
                      {
                         "idValue": null,
@@ -786,7 +254,7 @@
                         "sinavUygulanacak": true
                      }
                   ],
-                  "width": 16.66666667
+                  "width": 12.5
                },
                "yoklamaDevamDurumu": "--",
                "dersBilgi": {
@@ -808,123 +276,8 @@
                   },
                   "yariyil": {
                      "languageMap": {
-                        "EN": "IV.YY",
-                        "TR": "IV.YY"
-                     }
-                  },
-                  "aciklama": null,
-                  "birimkod": null,
-                  "derslisankod": null,
-                  "kredi": "5.0",
-                  "statu": {
-                     "languageMap": {
-                        "EN": "Required Courses",
-                        "TR": "Zorunlu Dersler"
-                     }
-                  },
-                  "kulturelEtkkinlikDersiMi": false
-               }
-            },
-            {
-               "idValue": {
-                  "value": "e21bf81fe1fcdaf42ca157a9f49f799e3d7a6727a23b847197e3ccf01327a5a91761a5e0035790085bdd804e34548478aff8e7a29afa4f9ad586f3e1ed649534e43b9b558b3a5192bf8543e2b17b30ab8cb4227680db09774a61aef7816c3a00",
-                  "type": "s"
-               },
-               "labelViewModel": {
-                  "languageMap": {
-                     "EN": "Introduction to Business",
-                     "TR": "Introduction to Business (Genel İşletme)"
-                  }
-               },
-               "derskod": "İŞL101",
-               "dersgrup": "",
-               "notTreeSet": {
-                  "items": [
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     },
-                     {
-                        "idValue": null,
-                        "labelViewModel": {
-                           "languageMap": {
-                              "EN": "--",
-                              "TR": "--"
-                           }
-                        },
-                        "sinavUygulanacak": false
-                     }
-                  ],
-                  "width": 16.66666667
-               },
-               "yoklamaDevamDurumu": "--",
-               "dersBilgi": {
-                  "idValue": null,
-                  "labelViewModel": null,
-                  "kodu": null,
-                  "grubu": null,
-                  "dersLisani": {
-                     "languageMap": {
-                        "EN": "Eng",
-                        "TR": "İng"
-                     }
-                  },
-                  "birim": {
-                     "languageMap": {
-                        "EN": "Dept.of Electrical and Electronics Engineering(Eng",
-                        "TR": "Elektrik-Elektronik Mühendisliği Bölümü (İngilizce)"
-                     }
-                  },
-                  "yariyil": {
-                     "languageMap": {
-                        "EN": "VI.YY",
-                        "TR": "VI.YY"
+                        "EN": "VII.YY",
+                        "TR": "VII.YY"
                      }
                   },
                   "aciklama": null,
@@ -938,20 +291,23 @@
                      }
                   },
                   "kulturelEtkkinlikDersiMi": false
-               }
+               },
+               "onayDurumu": null,
+               "aciklama": null,
+               "zorunluYuklenenDers": false
             },
             {
                "idValue": {
-                  "value": "f5eb840c485b150f8a3cb09315da583a9ba39ee15134a4a5b0e7db85e4279c9c33b79a0b3aebdd4f7873eefc01532fa65526752b50a120367a71421f216369df0e02ccb3b70fac1900aa2a94f6509941867c2aa5d394644b39a01ae40bd0c7ad",
+                  "value": "09c9abc093b04f191022611614c3ff28cb62cdc4279cf622eb042481e00c4672f182f27e026517ae343be97fae684ce74e08379708dd611f2559461550894f6a69c97bedba8f8c2d00aec173b1ec6444",
                   "type": "s"
                },
                "labelViewModel": {
                   "languageMap": {
-                     "EN": "Cyber Security for Everyone",
-                     "TR": "Herkes için Siber Güvenlik"
+                     "EN": "Engineering Design and Research",
+                     "TR": "Eng. Design and Rese. (Müh. Tasarımı ve Araş.)"
                   }
                },
-               "derskod": "ESTÜ112",
+               "derskod": "EEM415",
                "dersgrup": "",
                "notTreeSet": {
                   "items": [
@@ -964,6 +320,164 @@
                            }
                         },
                         "sinavUygulanacak": true
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "--",
+                              "TR": "--"
+                           }
+                        },
+                        "sinavUygulanacak": false
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "--",
+                              "TR": "--"
+                           }
+                        },
+                        "sinavUygulanacak": false
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "--",
+                              "TR": "--"
+                           }
+                        },
+                        "sinavUygulanacak": false
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "",
+                              "TR": ""
+                           }
+                        },
+                        "sinavUygulanacak": true
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "",
+                              "TR": ""
+                           }
+                        },
+                        "sinavUygulanacak": true
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "0.0",
+                              "TR": "0.0"
+                           }
+                        },
+                        "sinavUygulanacak": true
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "",
+                              "TR": ""
+                           }
+                        },
+                        "sinavUygulanacak": true
+                     }
+                  ],
+                  "width": 12.5
+               },
+               "yoklamaDevamDurumu": "--",
+               "dersBilgi": {
+                  "idValue": null,
+                  "labelViewModel": null,
+                  "kodu": null,
+                  "grubu": null,
+                  "dersLisani": {
+                     "languageMap": {
+                        "EN": "Eng",
+                        "TR": "İng"
+                     }
+                  },
+                  "birim": {
+                     "languageMap": {
+                        "EN": "Dept.of Electrical and Electronics Engineering(Eng",
+                        "TR": "Elektrik-Elektronik Mühendisliği Bölümü (İngilizce)"
+                     }
+                  },
+                  "yariyil": {
+                     "languageMap": {
+                        "EN": "VII.YY",
+                        "TR": "VII.YY"
+                     }
+                  },
+                  "aciklama": null,
+                  "birimkod": null,
+                  "derslisankod": null,
+                  "kredi": "3.0",
+                  "statu": {
+                     "languageMap": {
+                        "EN": "Required Courses",
+                        "TR": "Zorunlu Dersler"
+                     }
+                  },
+                  "kulturelEtkkinlikDersiMi": false
+               },
+               "onayDurumu": null,
+               "aciklama": null,
+               "zorunluYuklenenDers": false
+            },
+            {
+               "idValue": {
+                  "value": "6018ed4c5ea416c81ae57dfda68a0badd3bff837a7da77af1f25a867f1f4067346a690c1ac7b4032b1681e7e0a3941a49091f33809b16a3040ddedb55075429266a68669392b8b5f59bbbed24b270be8",
+                  "type": "s"
+               },
+               "labelViewModel": {
+                  "languageMap": {
+                     "EN": "Engineering Computations",
+                     "TR": "Engineering Computations (Mühendislik Hesaplamaları)"
+                  }
+               },
+               "derskod": "EEM4517",
+               "dersgrup": "",
+               "notTreeSet": {
+                  "items": [
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "",
+                              "TR": ""
+                           }
+                        },
+                        "sinavUygulanacak": true
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "",
+                              "TR": ""
+                           }
+                        },
+                        "sinavUygulanacak": true
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "--",
+                              "TR": "--"
+                           }
+                        },
+                        "sinavUygulanacak": false
                      },
                      {
                         "idValue": null,
@@ -1016,7 +530,7 @@
                         "sinavUygulanacak": true
                      }
                   ],
-                  "width": 16.66666667
+                  "width": 12.5
                },
                "yoklamaDevamDurumu": "--",
                "dersBilgi": {
@@ -1026,38 +540,593 @@
                   "grubu": null,
                   "dersLisani": {
                      "languageMap": {
-                        "EN": "Tur",
-                        "TR": "Tür"
+                        "EN": "Eng",
+                        "TR": "İng"
                      }
                   },
                   "birim": {
                      "languageMap": {
-                        "EN": "Department of Chemical Engineering (30% English)",
-                        "TR": "Kimya Mühendisliği Bölümü (%30 İngilizce)"
+                        "EN": "Dept.of Electrical and Electronics Engineering(Eng",
+                        "TR": "Elektrik-Elektronik Mühendisliği Bölümü (İngilizce)"
                      }
                   },
                   "yariyil": {
                      "languageMap": {
-                        "EN": "II.YY",
-                        "TR": "II.YY"
+                        "EN": "VII.YY",
+                        "TR": "VII.YY"
                      }
                   },
                   "aciklama": null,
                   "birimkod": null,
                   "derslisankod": null,
-                  "kredi": "2.0",
+                  "kredi": "5.0",
                   "statu": {
                      "languageMap": {
-                        "EN": "Elective Courses",
-                        "TR": "Seçmeli Dersler"
+                        "EN": "Area Elective Courses",
+                        "TR": "Mesleki Seçmeli Dersler"
                      }
                   },
                   "kulturelEtkkinlikDersiMi": false
-               }
+               },
+               "onayDurumu": null,
+               "aciklama": null,
+               "zorunluYuklenenDers": false
+            },
+            {
+               "idValue": {
+                  "value": "9700a1d061466e011e00a0124849256d086f0b6e0b0534a4d435636b195ee1a75e68e66a75cd2fd9b5d50ee42b2937733d4c76a244b987e5dce78a2616cc2dbf65e5a83840091ec5a8051f24b7e35fb5",
+                  "type": "s"
+               },
+               "labelViewModel": {
+                  "languageMap": {
+                     "EN": "Research in Signal Processing I",
+                     "TR": "Research in Signal Processing I (Sinyal İşleme Alan. Ara. I)"
+                  }
+               },
+               "derskod": "EEM457",
+               "dersgrup": "M",
+               "notTreeSet": {
+                  "items": [
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "",
+                              "TR": ""
+                           }
+                        },
+                        "sinavUygulanacak": true
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "",
+                              "TR": ""
+                           }
+                        },
+                        "sinavUygulanacak": true
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "--",
+                              "TR": "--"
+                           }
+                        },
+                        "sinavUygulanacak": false
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "--",
+                              "TR": "--"
+                           }
+                        },
+                        "sinavUygulanacak": false
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "--",
+                              "TR": "--"
+                           }
+                        },
+                        "sinavUygulanacak": false
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "",
+                              "TR": ""
+                           }
+                        },
+                        "sinavUygulanacak": true
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "0.0",
+                              "TR": "0.0"
+                           }
+                        },
+                        "sinavUygulanacak": true
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "",
+                              "TR": ""
+                           }
+                        },
+                        "sinavUygulanacak": true
+                     }
+                  ],
+                  "width": 12.5
+               },
+               "yoklamaDevamDurumu": "--",
+               "dersBilgi": {
+                  "idValue": null,
+                  "labelViewModel": null,
+                  "kodu": null,
+                  "grubu": null,
+                  "dersLisani": {
+                     "languageMap": {
+                        "EN": "Eng",
+                        "TR": "İng"
+                     }
+                  },
+                  "birim": {
+                     "languageMap": {
+                        "EN": "Dept.of Electrical and Electronics Engineering(Eng",
+                        "TR": "Elektrik-Elektronik Mühendisliği Bölümü (İngilizce)"
+                     }
+                  },
+                  "yariyil": {
+                     "languageMap": {
+                        "EN": "VII.YY",
+                        "TR": "VII.YY"
+                     }
+                  },
+                  "aciklama": null,
+                  "birimkod": null,
+                  "derslisankod": null,
+                  "kredi": "5.0",
+                  "statu": {
+                     "languageMap": {
+                        "EN": "Area Elective Courses",
+                        "TR": "Mesleki Seçmeli Dersler"
+                     }
+                  },
+                  "kulturelEtkkinlikDersiMi": false
+               },
+               "onayDurumu": null,
+               "aciklama": null,
+               "zorunluYuklenenDers": false
+            },
+            {
+               "idValue": {
+                  "value": "db06427a0aedb3ece156c733f741e004b8d238bee1f6af9fb823e7bd5e0874207c588158866fc599ad66cf6af67ee384ab920881ccaedd1967cefe7d4c3cd3b54357d072394d5842443cc24f96e124b0",
+                  "type": "s"
+               },
+               "labelViewModel": {
+                  "languageMap": {
+                     "EN": "Introduction to Image Processing",
+                     "TR": "Introduction to Image Processing (İmge İşlemeye Giriş)"
+                  }
+               },
+               "derskod": "EEM463",
+               "dersgrup": "",
+               "notTreeSet": {
+                  "items": [
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "",
+                              "TR": ""
+                           }
+                        },
+                        "sinavUygulanacak": true
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "--",
+                              "TR": "--"
+                           }
+                        },
+                        "sinavUygulanacak": false
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "--",
+                              "TR": "--"
+                           }
+                        },
+                        "sinavUygulanacak": false
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "",
+                              "TR": ""
+                           }
+                        },
+                        "sinavUygulanacak": true
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "--",
+                              "TR": "--"
+                           }
+                        },
+                        "sinavUygulanacak": false
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "",
+                              "TR": ""
+                           }
+                        },
+                        "sinavUygulanacak": true
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "0.0",
+                              "TR": "0.0"
+                           }
+                        },
+                        "sinavUygulanacak": true
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "",
+                              "TR": ""
+                           }
+                        },
+                        "sinavUygulanacak": true
+                     }
+                  ],
+                  "width": 12.5
+               },
+               "yoklamaDevamDurumu": "--",
+               "dersBilgi": {
+                  "idValue": null,
+                  "labelViewModel": null,
+                  "kodu": null,
+                  "grubu": null,
+                  "dersLisani": {
+                     "languageMap": {
+                        "EN": "Eng",
+                        "TR": "İng"
+                     }
+                  },
+                  "birim": {
+                     "languageMap": {
+                        "EN": "Dept.of Electrical and Electronics Engineering(Eng",
+                        "TR": "Elektrik-Elektronik Mühendisliği Bölümü (İngilizce)"
+                     }
+                  },
+                  "yariyil": {
+                     "languageMap": {
+                        "EN": "VII.YY",
+                        "TR": "VII.YY"
+                     }
+                  },
+                  "aciklama": null,
+                  "birimkod": null,
+                  "derslisankod": null,
+                  "kredi": "5.0",
+                  "statu": {
+                     "languageMap": {
+                        "EN": "Area Elective Courses",
+                        "TR": "Mesleki Seçmeli Dersler"
+                     }
+                  },
+                  "kulturelEtkkinlikDersiMi": false
+               },
+               "onayDurumu": null,
+               "aciklama": null,
+               "zorunluYuklenenDers": false
+            },
+            {
+               "idValue": {
+                  "value": "701702365f7e2f11dd8eed6cd49f0163213aa679cf7d3bb03b9537b55d5344d2371335068c0c5589c5fd04888fddcb8b7d2683b00eda82e6d4eb1ac83cc6b1fb2d2b957b19ca470de81c178c4e079282",
+                  "type": "s"
+               },
+               "labelViewModel": {
+                  "languageMap": {
+                     "EN": "Digital Signal Processing",
+                     "TR": "Digital Signal Processing (Sayısal İşaret İşleme)"
+                  }
+               },
+               "derskod": "EEM477",
+               "dersgrup": "",
+               "notTreeSet": {
+                  "items": [
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "55",
+                              "TR": "55"
+                           }
+                        },
+                        "sinavUygulanacak": true
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "",
+                              "TR": ""
+                           }
+                        },
+                        "sinavUygulanacak": true
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "--",
+                              "TR": "--"
+                           }
+                        },
+                        "sinavUygulanacak": false
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "--",
+                              "TR": "--"
+                           }
+                        },
+                        "sinavUygulanacak": false
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "--",
+                              "TR": "--"
+                           }
+                        },
+                        "sinavUygulanacak": false
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "",
+                              "TR": ""
+                           }
+                        },
+                        "sinavUygulanacak": true
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "13.75",
+                              "TR": "13.75"
+                           }
+                        },
+                        "sinavUygulanacak": true
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "",
+                              "TR": ""
+                           }
+                        },
+                        "sinavUygulanacak": true
+                     }
+                  ],
+                  "width": 12.5
+               },
+               "yoklamaDevamDurumu": "--",
+               "dersBilgi": {
+                  "idValue": null,
+                  "labelViewModel": null,
+                  "kodu": null,
+                  "grubu": null,
+                  "dersLisani": {
+                     "languageMap": {
+                        "EN": "Eng",
+                        "TR": "İng"
+                     }
+                  },
+                  "birim": {
+                     "languageMap": {
+                        "EN": "Dept.of Electrical and Electronics Engineering(Eng",
+                        "TR": "Elektrik-Elektronik Mühendisliği Bölümü (İngilizce)"
+                     }
+                  },
+                  "yariyil": {
+                     "languageMap": {
+                        "EN": "VII.YY",
+                        "TR": "VII.YY"
+                     }
+                  },
+                  "aciklama": null,
+                  "birimkod": null,
+                  "derslisankod": null,
+                  "kredi": "5.0",
+                  "statu": {
+                     "languageMap": {
+                        "EN": "Area Elective Courses",
+                        "TR": "Mesleki Seçmeli Dersler"
+                     }
+                  },
+                  "kulturelEtkkinlikDersiMi": false
+               },
+               "onayDurumu": null,
+               "aciklama": null,
+               "zorunluYuklenenDers": false
+            },
+            {
+               "idValue": {
+                  "value": "78de0a6427d83f3adcb79eef931c4ed5a850cfff2bd557a5acbcc857e48b1cbb0c7510a123bdbf9a9f118e0a32e9c6df889a7b07fbbfc83a5f66a4c4e3a7d168af8bc43b03d8313c1fd08617dcfefa4309bef3529bed814164f78565251f7d21",
+                  "type": "s"
+               },
+               "labelViewModel": {
+                  "languageMap": {
+                     "EN": "Electrical and Electronics Engineering Internship I",
+                     "TR": "Electrical and Electronics Engineering Internship I"
+                  }
+               },
+               "derskod": "EEMSJ401",
+               "dersgrup": "",
+               "notTreeSet": {
+                  "items": [
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "--",
+                              "TR": "--"
+                           }
+                        },
+                        "sinavUygulanacak": false
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "--",
+                              "TR": "--"
+                           }
+                        },
+                        "sinavUygulanacak": false
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "--",
+                              "TR": "--"
+                           }
+                        },
+                        "sinavUygulanacak": false
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "--",
+                              "TR": "--"
+                           }
+                        },
+                        "sinavUygulanacak": false
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "--",
+                              "TR": "--"
+                           }
+                        },
+                        "sinavUygulanacak": false
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "--",
+                              "TR": "--"
+                           }
+                        },
+                        "sinavUygulanacak": false
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "0.0",
+                              "TR": "0.0"
+                           }
+                        },
+                        "sinavUygulanacak": true
+                     },
+                     {
+                        "idValue": null,
+                        "labelViewModel": {
+                           "languageMap": {
+                              "EN": "",
+                              "TR": ""
+                           }
+                        },
+                        "sinavUygulanacak": true
+                     }
+                  ],
+                  "width": 12.5
+               },
+               "yoklamaDevamDurumu": "--",
+               "dersBilgi": {
+                  "idValue": null,
+                  "labelViewModel": null,
+                  "kodu": null,
+                  "grubu": null,
+                  "dersLisani": {
+                     "languageMap": {
+                        "EN": "Eng",
+                        "TR": "İng"
+                     }
+                  },
+                  "birim": {
+                     "languageMap": {
+                        "EN": "Dept.of Electrical and Electronics Engineering(Eng",
+                        "TR": "Elektrik-Elektronik Mühendisliği Bölümü (İngilizce)"
+                     }
+                  },
+                  "yariyil": {
+                     "languageMap": {
+                        "EN": "VII.YY",
+                        "TR": "VII.YY"
+                     }
+                  },
+                  "aciklama": null,
+                  "birimkod": null,
+                  "derslisankod": null,
+                  "kredi": "2.5",
+                  "statu": {
+                     "languageMap": {
+                        "EN": "Required Courses",
+                        "TR": "Zorunlu Dersler"
+                     }
+                  },
+                  "kulturelEtkkinlikDersiMi": false
+               },
+               "onayDurumu": null,
+               "aciklama": null,
+               "zorunluYuklenenDers": false
             }
          ],
          "birimkod": "5215050000",
-         "toplamKredi": "34.5",
+         "toplamKredi": "35.0",
          "ad": "ONUR",
          "soyad": "AĞAOĞLU",
          "sinavTurleriList": {
@@ -1072,10 +1141,33 @@
                   },
                   "sinavId": {
                      "tdersacId": {
-                        "value": "6a8cfdea7a70eb279256ef85333ec43e1198a451e5bdee5b9c2880ffc7e26e95",
+                        "value": "74ff84548c486fd00a207584c991d5397d9c71f94815573f8fcccc50bda51a97",
                         "type": "n"
                      },
                      "sinavTuru": "ARA_SINAV_1",
+                     "sinavNo": null,
+                     "sinavUygulamaSekli": null,
+                     "sinavTipi": "NORMAL"
+                  },
+                  "ortalama": 0.0,
+                  "sinavUygulamaSekli": null,
+                  "sinavaGirenOgrencSayisi": 0,
+                  "notGirAsama": null
+               },
+               {
+                  "idValue": null,
+                  "labelViewModel": {
+                     "languageMap": {
+                        "EN": "Midterm 2",
+                        "TR": "2.Ara Sınav"
+                     }
+                  },
+                  "sinavId": {
+                     "tdersacId": {
+                        "value": "2112dbf53f7618dd0b95b1c0dd556a7533ba89a897a275676d267bec011a04e1",
+                        "type": "n"
+                     },
+                     "sinavTuru": "ARA_SINAV_2",
                      "sinavNo": null,
                      "sinavUygulamaSekli": null,
                      "sinavTipi": "NORMAL"
@@ -1095,7 +1187,7 @@
                   },
                   "sinavId": {
                      "tdersacId": {
-                        "value": "778c5625faccb128033fba86ffec0748f5a3f7b9ad9453725827ba7092102d0e",
+                        "value": "b1656a32dbe4e30fa2f56fb6d49ce7afbdd3b41009872afcadf1d3d6ea093dcb",
                         "type": "n"
                      },
                      "sinavTuru": "ODEV",
@@ -1112,16 +1204,39 @@
                   "idValue": null,
                   "labelViewModel": {
                      "languageMap": {
-                        "EN": "Prac. Exam",
-                        "TR": "Uygulama"
+                        "EN": "Project",
+                        "TR": "Proje"
                      }
                   },
                   "sinavId": {
                      "tdersacId": {
-                        "value": "8b90b5af3743e0762651533a442fbd2a323b646058efa481d62649b437c497a7",
+                        "value": "50b496e224801a628770238043294e9614a60f4210d4803173c42187ce5c90bc",
                         "type": "n"
                      },
-                     "sinavTuru": "UYGULAMA",
+                     "sinavTuru": "PROJE",
+                     "sinavNo": null,
+                     "sinavUygulamaSekli": null,
+                     "sinavTipi": "NORMAL"
+                  },
+                  "ortalama": 0.0,
+                  "sinavUygulamaSekli": null,
+                  "sinavaGirenOgrencSayisi": 0,
+                  "notGirAsama": null
+               },
+               {
+                  "idValue": null,
+                  "labelViewModel": {
+                     "languageMap": {
+                        "EN": "Prac. Work",
+                        "TR": "Pratik Çal."
+                     }
+                  },
+                  "sinavId": {
+                     "tdersacId": {
+                        "value": "a79674d9974ff815c32d293cbd86244f8c38e14f1ed83b862fa75fe8be34e333",
+                        "type": "n"
+                     },
+                     "sinavTuru": "PRATIK",
                      "sinavNo": null,
                      "sinavUygulamaSekli": null,
                      "sinavTipi": "NORMAL"
@@ -1141,7 +1256,7 @@
                   },
                   "sinavId": {
                      "tdersacId": {
-                        "value": "b404fc9a8ef0c283358be0d21601a1b848c7e59ceeca99cacf0fb5df5cacd919",
+                        "value": "52e8193b00f4773a72a5f197062f5f7f5b491471849c31a86650ba039a454e2b",
                         "type": "n"
                      },
                      "sinavTuru": "DONEM_SONU",
@@ -1164,7 +1279,7 @@
                   },
                   "sinavId": {
                      "tdersacId": {
-                        "value": "9133b02b8aaa82c79651539418aa6039736a92d955da5b93943a3fcc51fb2c7b",
+                        "value": "498585848e07475ca96b8dd1f7810e3e3047fb67bb7f58d9c6fbdda4d7bc2bd0",
                         "type": "n"
                      },
                      "sinavTuru": "BASARI_NOTU",
@@ -1187,7 +1302,7 @@
                   },
                   "sinavId": {
                      "tdersacId": {
-                        "value": "b2ef187a68d8a68c6b82e5cec049e652abf00b39b0789abfbb4bc47a4199845b",
+                        "value": "56fad61259c5a81ed085047b868e0c5660f2cf3d6acc45ef053a8ca6bd1d8c9d",
                         "type": "n"
                      },
                      "sinavTuru": "HARF_NOTU",
@@ -1201,13 +1316,14 @@
                   "notGirAsama": null
                }
             ],
-            "width": 16.66666667
+            "width": 12.5
          }
       }
    ],
    "ogrenciKayitAsamasi": null,
+   "aliciKullaniciId": 824362,
    "ad": "ONUR",
    "soyad": "AĞAOĞLU",
    "cepTel": "0549 693 66 87",
-   "sinif": 2
+   "sinif": 4
 }

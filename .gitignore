@@ -1,0 +1,8 @@
+﻿.venv/
+.env
+__pycache__/
+*.pyc
+grades.csv
+grades.json
+task.txt
+output.log
